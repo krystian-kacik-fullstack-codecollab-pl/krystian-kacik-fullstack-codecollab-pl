@@ -31,8 +31,9 @@ Code on the client's own repository from day one - **zero vendor lock-in**.
 Written quote within 24h, no "from $X". I stay after launch; most clients move to
 ongoing maintenance.
 
-> Most of my work is under NDA. Public proof goes through hard numbers
-> (e.g. Złota Faza: Lighthouse Performance 38 → 100) and the open-source code here.
+> Client work is under NDA, so this profile shows small open-source tools and
+> demos rather than production client code. The proof that matters is in the
+> numbers - e.g. Złota Faza: Lighthouse Performance 38 → 100.
 
 ---
 
