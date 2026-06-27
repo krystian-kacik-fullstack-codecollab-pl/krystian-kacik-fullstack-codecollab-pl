@@ -24,6 +24,7 @@ ship it, I pick up the phone. 8 years in production (commercially since 2018).
 ### Featured
 
 - **[wc-stale-order-guard](https://github.com/krystian-kacik-fullstack-codecollab-pl/wc-stale-order-guard)** - HPOS-compatible WooCommerce plugin that flags orders stuck in a status too long and emails a digest. Action Scheduler + WP-CLI, tested in CI.
+- **[psi-budget](https://github.com/krystian-kacik-fullstack-codecollab-pl/psi-budget)** - zero-dependency TypeScript library + CLI that asserts a Lighthouse / PageSpeed report against a performance budget and fails CI on regressions.
 
 ### How I work
 
